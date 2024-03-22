@@ -1,8 +1,8 @@
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge)
 # :video_game: Jogo de Adivinhação
 <dl>
-<dd>Esse jogo  é um jogo simples criado no Python onde o jogador interage com o computador digitando seu palpite.</dd>
-<dd>O jogador oferece tentativas para que o jogador tentar acertar o número secreto, dando dicas se o palpite está maior ou menor que o número secreto.</dd>
+<dd>Esse é um jogo simples criado no Python onde o jogador interage com o computador digitando seu palpite.</dd>
+<dd>O jogo oferece 3 tentativas para que o jogador tente acertar o número secreto, dando dicas se o palpite está maior ou menor que o número secreto.</dd>
 </dl>
 
 :movie_camera:
